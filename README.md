@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Private/Public sector
 - 🌱 I’m currently learning ... DevOps Engineer
 - 💞️ I’m looking to collaborate on DevOps administration vacancy 
-- 📫 How to reach me ...07510531121
+- 📫 How to reach me: tosinlawal05@gmail.com
 
 <!---
 Tosin-github/Tosin-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
